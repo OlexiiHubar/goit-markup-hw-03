@@ -265,7 +265,6 @@ img {
 
 
 .teammate-item {
-    margin-bottom: 94px;
     margin-right: 30px;
     border-radius: 0 0 4px 4px;
 
@@ -378,7 +377,7 @@ img {
 .filter-list {
     display: flex;
     justify-content: center;
-    margin-bottom: 34px;
+    margin-bottom: 50px;
 }
 
 .filter-list .item:not(:last-child) {
@@ -421,6 +420,8 @@ img {
 }
 
 .project-title {
+    margin-bottom: 4px;
+
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
